@@ -129,7 +129,7 @@ As well as this, there was 1702 posts from just the Animal category alone! Peopl
 The most common month for users to post within was May and January.
 
 # RECOMMENDATIONS
-We Recommend Social Buzz Marketing Team to schedule a marketing Plan targetting Animal Lovers and generall audience from the Top Categories.
+We Recommend Social Buzz Marketing Team to schedule a marketing Plan targetting Animal Lovers and generally target audience from the Top Categories.
 
 
 
