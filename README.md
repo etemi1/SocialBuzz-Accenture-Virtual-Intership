@@ -1,5 +1,5 @@
 
-# In this Project i am assuming the role of a Data Analyst for Accenture.
+In this Project i am assuming the role of a Data Analyst for Accenture.
 
 # INSTRUCTIONS:
 Here is the background information on your task
