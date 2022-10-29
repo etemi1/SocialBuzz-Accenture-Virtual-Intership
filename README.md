@@ -105,9 +105,18 @@ Final Modelling
 ![AccentureportfolioSocialBuzz](https://user-images.githubusercontent.com/41531796/198848407-e2477677-6f90-4950-9930-bb231ea7fbf6.png)
 
 
-INSIGHTS:
+# INSIGHTS:
+From your data we found that you had a total of 17 unique categories of posts across your sample dataset. This includes things such as Technology, Food, Science etc
+
 From our analysis you can see that the top 5 most popular categories of posts were Animals,Science, Healthy Eating, Technology and Food in descending order.
 
 Animal had an aggregate popularity score of almost 67,000. It is very interesting to see both Animal and Science within the top 5, it really shows what people enjoy consuming as content.  But also interesting to see Healthy Eating and Food as well. Clearly users in Social Buzz favor "real-life and Science related" contents on this platform. 
-[image](https://user-images.githubusercontent.com/41531796/198848445-c76d2711-024a-41ab-9ebd-a87b7be80737.png)
+
+As well as this, there was 1702 posts from just the Animal category alone! People obviously really love Animals!
+
+The most common month for users to post within was May and January.
+
+
+
+
 
