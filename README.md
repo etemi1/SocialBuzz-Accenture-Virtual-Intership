@@ -95,3 +95,6 @@ technology landscape
 - Communication with previous IPO companies within our client base for reference stories - Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them thro
 
+
+# DATA ANALYSIS PROCESS: 
+I loaded dataset into Excel to explore the data 
