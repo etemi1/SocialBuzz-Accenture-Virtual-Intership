@@ -2,7 +2,6 @@
 In this Project i am assuming the role of a Data Analyst for Accenture.
 
 # INSTRUCTIONS:
-Here is the background information on your task
 You’ve been assigned to a new project and the first thing you must do is get up to speed with the business problem that this project is tackling, the requirements that need to be fulfilled as deliverables and the alignment of internal teams with the client.
 
 You will be working within a large team at Accenture and there will be several people on your team doing different roles to make this project a success.
@@ -70,7 +69,9 @@ Sentiment: A string detailing whether this type of reaction is considered as pos
 
 Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction.
 
-# Data Modelling: 
+# Data Model:
+
+![Screenshot (68)](https://user-images.githubusercontent.com/41531796/198848110-d85558d8-9f20-48f0-8e4d-240912efb1a2.png)
 
 
 
@@ -80,21 +81,33 @@ An audit of their big data practice
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity
 
-# MY TASK: 
 
-Tasks to be delegated:
-- Creation of an up-to-date big data best practices presentation - Extraction of sample data sets using SQL
-- On-site audit of their data-center
+# Tasks to do
+ - Extraction of sample data sets
 - Merging of sample data set tables
-- Virtual session with Social Buzz team to present previous client success stories relevant to them
-- Preparation of best practice document for IPO
 - Loading of sample data sets into Accenture sandbox database
-- Technology architecture workshop with Social Buzz Data Team to understand their
-technology landscape
-- Stress testing of their technology to identify weak spots
-- Communication with previous IPO companies within our client base for reference stories - Analysis of sample data sets with visualizations
+- Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them thro
 
 
-# DATA ANALYSIS PROCESS: 
-I loaded dataset into Excel to explore the data 
+
+# DATA ANALYSIS PROCESS:
+Data Exploration and Data Cleaning
+I loaded dataset into Excel to explore the data and check that the data is consistent along rows and across columns. I 
+
+# Data Modelling
+Final Modelling
+![SocialBuz](https://user-images.githubusercontent.com/41531796/198848393-2aa5bacb-e305-4a16-a367-804e731206a1.jpg)
+
+# Data Analysis and Visualization
+
+
+![AccentureportfolioSocialBuzz](https://user-images.githubusercontent.com/41531796/198848407-e2477677-6f90-4950-9930-bb231ea7fbf6.png)
+
+
+INSIGHTS:
+From our analysis you can see that the top 5 most popular categories of posts were Animals,Science, Healthy Eating, Technology and Food in descending order.
+
+Animal had an aggregate popularity score of almost 67,000. It is very interesting to see both Animal and Science within the top 5, it really shows what people enjoy consuming as content.  But also interesting to see Healthy Eating and Food as well. Clearly users in Social Buzz favor "real-life and Science related" contents on this platform. 
+[image](https://user-images.githubusercontent.com/41531796/198848445-c76d2711-024a-41ab-9ebd-a87b7be80737.png)
+
