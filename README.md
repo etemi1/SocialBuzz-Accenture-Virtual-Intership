@@ -93,7 +93,17 @@ largest aggregate popularity
 
 # DATA ANALYSIS PROCESS:
 Data Exploration and Data Cleaning
-I loaded dataset into Excel to explore the data and check that the data is consistent along rows and across columns. I 
+I loaded dataset into Excel to explore the data and check the quality of the data. 
+
+I made cell values in content table, category column consistent by capitilizing the first letter
+
+I Performed a left jon and merged reaction types table with Content table using TYPE as the matching column. 
+
+I deleted unecessary columns for the purpose of this analysis.
+
+I merged the Profit table with users table to eliminate redundancy
+
+I changed and tranformed necessary data types.
 
 # Data Modelling
 Final Modelling
@@ -108,6 +118,8 @@ Final Modelling
 # INSIGHTS:
 From your data we found that you had a total of 17 unique categories of posts across your sample dataset. This includes things such as Technology, Food, Science etc
 
+An average of almost 48 mins is spent by users per day.
+
 From our analysis you can see that the top 5 most popular categories of posts were Animals,Science, Healthy Eating, Technology and Food in descending order.
 
 Animal had an aggregate popularity score of almost 67,000. It is very interesting to see both Animal and Science within the top 5, it really shows what people enjoy consuming as content.  But also interesting to see Healthy Eating and Food as well. Clearly users in Social Buzz favor "real-life and Science related" contents on this platform. 
@@ -116,7 +128,8 @@ As well as this, there was 1702 posts from just the Animal category alone! Peopl
 
 The most common month for users to post within was May and January.
 
-
+# RECOMMENDATIONS
+We Recommend Social Buzz Marketing Team to schedule a marketing Plan targetting Animal Lovers and generall audience from the Top Categories.
 
 
 
